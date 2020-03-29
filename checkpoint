@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/lokyiuto/Documents/Python/ChatBot/model.tflearn"
+all_model_checkpoint_paths: "/Users/lokyiuto/Documents/Python/ChatBot/model.tflearn"
